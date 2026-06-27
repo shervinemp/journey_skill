@@ -139,7 +139,6 @@ Then produce a **Cross-Role Summary:**
 
 ### Recommended next commands
 - `$journey-audit trace <role/journey>` — deep-dive a specific journey
-- `$impeccable critique <page>` — design review of a problem surface
 ```
 
 ## Source verification methods
